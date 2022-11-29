@@ -24,7 +24,7 @@ const Users = db.define('users', {
         allowNull: false
     },
     birthday: {
-        type: DataTypes.STRING,
+        type: DataTypes.DATEONLY,
         allowNull: false
     }
 }, {

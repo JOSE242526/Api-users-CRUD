@@ -51,7 +51,7 @@
     ```
     ejemplo: 
     ```bash
-    git remote set-url origin https://github.com/SheykoWk/users-spaghetti.git
+    git remote set-url origin https://github.com/KelvinPeralta/Api-users-CRUD.git
     ```
 
 3. Deberas hacer un add, un commit y un push a tu repositorio

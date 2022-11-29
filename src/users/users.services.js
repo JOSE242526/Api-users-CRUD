@@ -41,7 +41,7 @@ const postUser = (req, res) => {
                 last_name: "Peralta*", 
                 email: "kelvin.p@academlo.com*",
                 password: "root123",
-                birthday: "13042000"
+                birthday: "2000/01/01"
               }
         });
     })
